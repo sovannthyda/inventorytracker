@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">inventorytracker</string>
+    <string name="inventorysystem">Inventory System</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="nav">Navigation</string>
+    <string name="profile">Profile</string>
+    <string name="product">Product</string>
+    <string name="inventory">Inventory</string>
+    <string name="sales">Sales</string>
+    <string name="purchases">Purchases</string>
+    <string name="logout">Logout</string>
+</resources>
